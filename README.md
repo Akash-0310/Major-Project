@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akash singh</h1>
-<h3 align="center">I'm Pasionate Front End Developer</h3>
 
 - Hi, This is [LearnEd](https://major-project-akash03.netlify.app/) an E-Learning Website.
 
