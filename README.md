@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akash singh</h1>
+<h1 align="center">Hi 👋, I'm Ansel Vivian Rego</h1>
 
- This is [LearnEd](https://learn-ed-web.netlify.app/) an E-Learning Website.
+ This is Bandhu (https://learn-ed-web.netlify.app/) an E-Learning Website.
  <p>E-Learning allows learners to quickly and more easily complete their training, resulting in improved performance and greater productivity. Learners appreciate that they can participate in training at their convenience.</p>
 
 
